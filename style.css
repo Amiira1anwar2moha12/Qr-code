@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-color: hsl(212, 45%, 89%);
+}
+.container{
+    width: 25%;
+    height: 470px;
+margin: 80px 500px;
+border-radius: 10px;
+background-color: hsl(0, 0%, 100%);
+}
+.container img{
+    margin: 10px 15px;
+    border-radius: 10px;
+}
+.container .title , h4{
+    text-align: center;
+    padding: 0 6px;
+}
+.title p{
+    margin-top: 6px;
+}
